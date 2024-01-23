@@ -1,4 +1,4 @@
-package org.learning.producer;
+package org.learning.producerandconsumer;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
